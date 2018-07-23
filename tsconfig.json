@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"target": "es5",
+		"removeComments": true,
+		"esModuleInterop": true,
+		"lib": [
+			"es5",
+			"es6",
+			"dom",
+			"webworker"
+		]
+	}
+}
